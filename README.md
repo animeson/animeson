@@ -1,0 +1,4 @@
+- 👋 Hi, I’m  Sasha
+- 👀 I’m interested in programming (i like a programming language like java)
+- 🌱 Now I learn to be a programmer
+- 💞️ Have a nice day
